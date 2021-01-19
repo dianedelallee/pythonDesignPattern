@@ -3,6 +3,8 @@ Design Patterns in Python
 
 Play a bit with the design pattern to be more familiar with them
 
+this is a WIP repository
+
 __Creational Patterns__:
 
 | Pattern | Description |
